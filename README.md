@@ -1,50 +1,59 @@
 # Final-Project-
-# Mental Health Screening Web App
+# Mental Health Data Analysis Project
 
-## Project Idea
+## Project Overview
 
-This project is a simple mental health screening web application designed to help users become more aware of possible symptoms of depression and suicidal thoughts through self-assessment questionnaires.
+This project analyzes mental health data to explore patterns related to depression, emotional well-being, and suicide risk factors.
 
-The goal of the project is to encourage mental health awareness and provide users with supportive resources. The application is not intended to diagnose medical conditions or replace professional healthcare services.
+The goal of the project is to use data science techniques to better understand how different factors such as age, stress, lifestyle, and social conditions may relate to mental health outcomes.
 
-## Features
+## Objectives
 
-- Depression self-assessment questionnaire
-- Suicide risk awareness questions
-- Score calculation system
-- Risk-level feedback
-- Mental health resource recommendations
-- Clean and simple user interface
-
-## Purpose
-
-Mental health problems are often ignored because many people feel uncomfortable discussing them. This project aims to provide a private and accessible way for users to reflect on their emotional well-being.
+- Analyze mental health datasets
+- Identify trends and patterns
+- Visualize depression and suicide-related statistics
+- Apply basic data science and statistical methods
+- Create meaningful insights from the data
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
-## Future Improvements
+## Dataset
 
-- User accounts
+The dataset used in this project contains mental health survey information and related demographic or psychological factors.
+
+## Project Features
+
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
 - Data visualization
-- AI-based mood analysis
-- Anonymous statistics dashboard
-- Multi-language support
+- Correlation analysis
+- Summary of findings
 
-## Ethical Considerations
+## Disclaimer
 
-This application does not provide medical diagnosis. Results are only informational and users are encouraged to contact qualified mental health professionals for support.
-
-If a user appears to be in immediate danger, emergency services or suicide prevention hotlines should be contacted immediately.
+This project is for educational and research purposes only. It does not provide medical diagnosis or professional psychological evaluation.
 
 ## How to Run
 
-1. Download or clone the repository
-2. Open `index.html` in a browser
+1. Install Python libraries:
+```bash
+pip install pandas numpy matplotlib seaborn
+```
+
+2. Open the Jupyter Notebook:
+```bash
+jupyter notebook
+```
+
+3. Run the notebook cells to view the analysis.
 
 ## Author
 
-Nadia Haidari
+Your Name
