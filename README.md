@@ -56,4 +56,4 @@ jupyter notebook
 
 ## Author
 
-Your Name
+Nadia Haidari
